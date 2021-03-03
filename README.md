@@ -8,8 +8,6 @@
 
 <img src="architecture.jpg"/><br> ​
 
-[발표자료](/project.pptx)<br>​
-
 ## 발표 동영상​
 
 발표 동영상입니다.​
@@ -20,4 +18,5 @@
 
 [검색엔진](https://naver.com)​
 
+[Home](https://JAEHUN-AN.github.io) ​
 [Repository 1](https://JAEHUN-AN.github.io/hello-world) ​
